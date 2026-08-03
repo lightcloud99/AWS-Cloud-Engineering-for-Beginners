@@ -199,9 +199,9 @@ cat > /var/www/html/index.html <<EOF
     <h2>Did you just build this too? &#127881;</h2>
     <p>If this page is on your screen, you launched a real server in the AWS cloud and it configured itself from your script. That is a genuine cloud engineering skill &mdash; and it's only lesson one. Support the channel so more hands-on lessons like this keep coming.</p>
     <div class="buttons">
-      <a class="btn like" href="https://www.youtube.com/@YOUR_CHANNEL" target="_blank">&#128077; Like the Video</a>
-      <a class="btn sub" href="https://www.youtube.com/@YOUR_CHANNEL?sub_confirmation=1" target="_blank">&#128276; Subscribe</a>
-      <a class="btn share" href="https://www.youtube.com/@YOUR_CHANNEL" target="_blank">&#128228; Share with a Friend</a>
+      <a class="btn like" href="https://www.youtube.com/@lightcloud9?sub_confirmation=1&feature=subscribe" target="_blank">&#128077; Like the Video</a>
+      <a class="btn sub" href="https://www.youtube.com/@lightcloud9?sub_confirmation=1&feature=subscribe" target="_blank">&#128276; Subscribe</a>
+      <a class="btn share" href="https://www.youtube.com/@lightcloud9?sub_confirmation=1&feature=subscribe" target="_blank">&#128228; Share with a Friend</a>
     </div>
   </div>
 
